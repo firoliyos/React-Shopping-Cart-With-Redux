@@ -1,6 +1,6 @@
 
-export default Cart = () => {
+export default function Cart () {
    return(
-    <div>CART</div>
+    <div>Cart</div>
    )
 }

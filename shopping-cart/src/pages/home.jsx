@@ -1,6 +1,6 @@
 
-export default Home = () => {
+export default function Home () {
     return(
-     <div>HOME</div>
+     <div>Home</div>
     )
  }
